@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ A react Project which enables the user to take the quiz and display the results with score in end.
+
 ## Available Scripts
 
 In the project directory, you can run:
